@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="feeora-fav-top" x1="18" y1="14" x2="90" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#7B5BFF" />
+      <stop offset="100%" stopColor="#6750D8" />
+    </linearGradient>
+    <linearGradient id="feeora-fav-bottom" x1="18" y1="36" x2="68" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#553EC6" />
+      <stop offset="100%" stopColor="#442BB5" />
+    </linearGradient>
+  </defs>
+
+  <!-- Top curved ribbon arm -->
+  <path
+    d="M18 48C18 25 30 14 50 14H84C89 14 92 18.5 89 23C86.5 27.5 81 30.5 74 30.5H37L18 48Z"
+    fill="url(#feeora-fav-top)"
+  />
+
+  <!-- Lower stem & middle crossbar with folded crease & angled bottom cut -->
+  <path
+    d="M18 48L35.5 32H64C69.5 32 73.5 36 73.5 41.5C73.5 47 69.5 51 64 51H34V72L18 86V48Z"
+    fill="url(#feeora-fav-bottom)"
+  />
+</svg>

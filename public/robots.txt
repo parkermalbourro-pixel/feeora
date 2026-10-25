@@ -1,0 +1,6 @@
+# robots.txt for Feeora
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ais-pre-lqhuk2fht5jfmsiixcmttg-223979387580.asia-southeast1.run.app/sitemap.xml

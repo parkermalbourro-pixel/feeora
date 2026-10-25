@@ -1,0 +1,8 @@
+{
+  "name": "PayFeeCalc - International Payment Fee Calculator",
+  "description": "Free, independent international payment fee calculator for freelancers, creators, and global businesses. Calculate and compare fees for PayPal, Payoneer, and Stripe with reverse net payout calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
